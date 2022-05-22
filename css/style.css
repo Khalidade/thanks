@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+.image-box img{
+    width: 100% !important;
+}
+.book-box img{
+    width: 100%  !important;
+}
 .contact-books img{
     width: 100% !important;
 }
