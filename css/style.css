@@ -4,11 +4,12 @@
     box-sizing: border-box;
 }
 .image-box img{
-    width: 90% !important;
+    width: 100% !important;
+    width: 100vh;
 }
 .book-box img{
-    width: 90%  !important;
+    width: 100%  !important;
 }
 .contact-books img{
-    width: 85% !important;
+    width: 100% !important;
 }
